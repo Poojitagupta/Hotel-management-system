@@ -9,7 +9,7 @@ Features
 5. Delete Records – Remove customer information when they check out.
 6. Admin Authentication – Secure access to hotel management functions.
 <br>
-Technologies Used
+Technologies Used <br>
 1. C++ – Core programming language
 2. File Handling – Stores customer records in a text file (Record.dat)
 3. OOP Concepts – Classes & Objects for modularity
